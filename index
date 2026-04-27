@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbxFEA5LLCeNIoNzEDPEawXCyd96MxT0BQxQhhupeW2G3MesyrUb42ZbC8vDheNqPKlD/exec"></iframe>
+</body>
+</html>
